@@ -1,3 +1,4 @@
+the sun
 /*
 chuc nang: tru 2 so nguyen
 input:
