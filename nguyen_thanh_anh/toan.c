@@ -51,6 +51,6 @@ output:
 int cong(int a, int b)
 {
     int ketqua = 0;
-    ketqua = a * b;
+    ketqua = a + b;
     return ketqua;
 }
