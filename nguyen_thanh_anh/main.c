@@ -1,12 +1,14 @@
-#include <stdio.h>
-#include "toan.h"
-void main()
+﻿#include <stdio.h>
+void mail()
 {
-	printf("hello world\n");
-	int x = 1;
-	int y = 2;
-	int abc = cong(x, y);
-	printf("abc %d", abc);
-	
-}
+    char str[] = "thanhanh";
+    int soluong = 0;
+    int i = 0;   // Biến chỉ số để duyệt chuỗi
 
+    while (str[i] != '0') // '0' là ký tự kết thúc chuỗi
+    {
+        i++;
+    }
+
+    printf("So ky tu trong chuoi la: %d\n", i);
+}
