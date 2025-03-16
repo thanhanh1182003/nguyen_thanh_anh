@@ -4,7 +4,7 @@ void main()
     char str[] = "thAnhAnh";
     int i = 0;   // Biến chỉ số để duyệt chuỗi
 
-    while (str[i] > 60 && str[i] < 90) // 60 dến 90 là khu vực giá trị chữ in hoa
+    while (str[i] > 65 && str[i] < 90) // 60 dến 90 là khu vực giá trị chữ in hoa
     {
         i++;
     }
