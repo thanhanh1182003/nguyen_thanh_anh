@@ -1,14 +1,13 @@
 ﻿#include <stdio.h>
 void main()
 {
-    char str[] = "thanhanh";
-    int soluong = 0;
+    char str[] = "thAnhAnh";
     int i = 0;   // Biến chỉ số để duyệt chuỗi
 
-    while (str[i] != 0) // 0 là ký tự kết thúc chuỗi
+    while (str[i] > 60 && str[i] < 90) // 60 dến 90 là khu vực giá trị chữ in hoa
     {
         i++;
     }
 
-    printf("So ky tu trong chuoi la: %d\n", i);
+    printf("So ky tu chu in hoa : %d\n", i);
 }
