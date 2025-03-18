@@ -21,6 +21,9 @@
     <ClCompile Include="toan.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="bai1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="toan.h">

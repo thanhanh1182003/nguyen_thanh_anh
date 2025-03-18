@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="bai1.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="toan.c" />
   </ItemGroup>
