@@ -21,7 +21,19 @@
     <ClCompile Include="toan.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="bai1.c">
+    <ClCompile Include="bai1_16_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bai2_16_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bai3_16_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bai4_16_3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bai5_16_3.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

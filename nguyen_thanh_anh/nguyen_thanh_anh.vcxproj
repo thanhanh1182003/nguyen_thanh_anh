@@ -127,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="bai1.c" />
+    <ClCompile Include="bai1_16_3.c" />
+    <ClCompile Include="bai2_16_3.c" />
+    <ClCompile Include="bai3_16_3.c" />
+    <ClCompile Include="bai4_16_3.c" />
+    <ClCompile Include="bai5_16_3.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="toan.c" />
   </ItemGroup>
